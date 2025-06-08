@@ -245,7 +245,7 @@ var loot;
 var playerData;        // Data player: health, stamina, hunger
 var healthBar, staminaBar, hungerBar;  // UI bars
 var ammoText; // Tampilan ammo senjata
-var hasWeapon = true; // testing dulu, nanti ubah ke false
+var hasWeapon = false; 
 var ammo = { clip: 6, reserve: 36 };
 var reloadKey, dropWeaponKey;
 var laserLine; // Laser bantuan penargetan
