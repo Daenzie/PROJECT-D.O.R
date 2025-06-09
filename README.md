@@ -1,2 +1,2 @@
 # PROJECT-D.O.R
-my first game developing project
+our first game developing project
